@@ -1,0 +1,10 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  X-Header-Source: netlify.toml
+  X-Content-Type-Options: nosniff
+  Strict-Transport-Security: max-age=31536000
+  Permissions-Policy: geolocation=(self)
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: frame-ancestors 'self'; block-all-mixed-content
+  
